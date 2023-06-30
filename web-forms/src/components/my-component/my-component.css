@@ -1,0 +1,11 @@
+:host {
+  display: block;
+}
+
+div {
+  color: rebeccapurple;
+}
+
+my-component {
+  color: rebeccapurple;
+}

@@ -1,0 +1,7 @@
+:host {
+  display: block;
+}
+custom-clock{
+  width: 100px;
+  color: orange;
+}

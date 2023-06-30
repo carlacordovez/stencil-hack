@@ -1,0 +1,9 @@
+:host {
+  display: block;
+}
+
+button-standard{
+  button {
+    color: rebeccapurple;
+  }
+}
